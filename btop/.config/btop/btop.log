@@ -54,3 +54,587 @@
 2025/04/11 (05:41:46) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
 2025/04/11 (05:41:46) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
 2025/04/11 (05:41:58) | INFO: Quitting! Runtime: 00:00:12
+
+2025/04/11 (05:48:32) | ===> btop++ v.1.4.0
+2025/04/11 (05:48:32) | INFO: Logger set to INFO
+2025/04/11 (05:48:32) | INFO: Running on /dev/pts/1
+2025/04/11 (05:48:32) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2025/04/11 (05:48:32) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/04/11 (05:49:00) | INFO: Quitting! Runtime: 00:00:28
+
+2025/04/11 (05:49:08) | ===> btop++ v.1.4.0
+2025/04/11 (05:49:08) | INFO: Logger set to INFO
+2025/04/11 (05:49:08) | INFO: Running on /dev/pts/1
+2025/04/11 (05:49:08) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2025/04/11 (05:49:08) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/04/11 (05:49:36) | INFO: Quitting! Runtime: 00:00:28
+
+2025/04/15 (00:32:36) | ===> btop++ v.1.4.0
+2025/04/15 (00:32:36) | INFO: Logger set to INFO
+2025/04/15 (00:32:36) | INFO: Running on /dev/pts/0
+2025/04/15 (00:32:36) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2025/04/15 (00:32:36) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+
+2025/04/15 (04:10:02) | ===> btop++ v.1.4.0
+2025/04/15 (04:10:02) | INFO: Logger set to INFO
+2025/04/15 (04:10:03) | INFO: Running on /dev/pts/0
+2025/04/15 (04:10:03) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2025/04/15 (04:10:03) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/04/15 (04:10:44) | INFO: Quitting! Runtime: 00:00:42
+
+2025/04/20 (03:31:31) | ===> btop++ v.1.4.0
+2025/04/20 (03:31:31) | INFO: Logger set to INFO
+2025/04/20 (03:31:31) | INFO: Running on /dev/pts/0
+2025/04/20 (03:31:31) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2025/04/20 (03:31:31) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/04/20 (03:31:37) | INFO: Quitting! Runtime: 00:00:06
+
+2025/04/20 (03:35:05) | ===> btop++ v.1.4.0
+2025/04/20 (03:35:05) | INFO: Logger set to INFO
+2025/04/20 (03:35:05) | INFO: Running on /dev/pts/2
+2025/04/20 (03:35:05) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2025/04/20 (03:35:05) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/04/20 (03:35:12) | INFO: Quitting! Runtime: 00:00:07
+
+2025/04/20 (03:35:43) | ===> btop++ v.1.4.0
+2025/04/20 (03:35:43) | INFO: Logger set to INFO
+2025/04/20 (03:35:43) | WARNING: Invalid value for show_gpu_info: true
+2025/04/20 (03:35:43) | INFO: Running on /dev/pts/2
+2025/04/20 (03:35:43) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2025/04/20 (03:35:43) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/04/20 (03:35:53) | INFO: Quitting! Runtime: 00:00:10
+
+2025/04/20 (03:36:34) | ===> btop++ v.1.4.0
+2025/04/20 (03:36:34) | INFO: Logger set to INFO
+2025/04/20 (03:36:34) | INFO: Running on /dev/pts/2
+2025/04/20 (03:36:34) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2025/04/20 (03:36:34) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/04/20 (03:36:42) | INFO: Quitting! Runtime: 00:00:08
+
+2025/04/20 (03:37:17) | ===> btop++ v.1.4.0
+2025/04/20 (03:37:17) | INFO: Logger set to INFO
+2025/04/20 (03:37:17) | INFO: Running on /dev/pts/2
+2025/04/20 (03:37:17) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2025/04/20 (03:37:17) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/04/20 (03:37:53) | INFO: Quitting! Runtime: 00:00:36
+
+2025/04/20 (03:45:14) | ===> btop++ v.1.4.0
+2025/04/20 (03:45:14) | INFO: Logger set to INFO
+2025/04/20 (03:45:14) | INFO: Running on /dev/pts/1
+2025/04/20 (03:45:14) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2025/04/20 (03:45:14) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/04/20 (03:45:14) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/20 (03:45:14) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/04/20 (03:55:17) | INFO: Quitting! Runtime: 00:10:03
+
+2025/04/20 (04:57:19) | ===> btop++ v.1.4.0
+2025/04/20 (04:57:19) | INFO: Logger set to INFO
+2025/04/20 (04:57:19) | INFO: Running on /dev/pts/2
+2025/04/20 (04:57:19) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2025/04/20 (04:57:20) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/04/20 (04:57:20) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/04/20 (05:00:56) | ERROR: Stall in Runner thread, restarting!
+2025/04/20 (05:01:02) | ERROR: Stall in Runner thread, restarting!
+
+2025/04/20 (05:03:42) | ===> btop++ v.1.4.0
+2025/04/20 (05:03:42) | INFO: Logger set to INFO
+2025/04/20 (05:03:42) | INFO: Running on /dev/pts/2
+2025/04/20 (05:03:42) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2025/04/20 (05:03:42) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/04/20 (05:03:42) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/04/20 (05:09:10) | ERROR: Stall in Runner thread, restarting!
+2025/04/20 (05:10:19) | ERROR: Stall in Runner thread, restarting!
+
+2025/04/20 (05:19:44) | ===> btop++ v.1.4.0
+2025/04/20 (05:19:44) | INFO: Logger set to INFO
+2025/04/20 (05:19:44) | INFO: Running on /dev/pts/2
+2025/04/20 (05:19:44) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2025/04/20 (05:19:44) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/04/20 (05:19:44) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/04/20 (05:19:54) | INFO: Quitting! Runtime: 00:00:10
+
+2025/04/21 (20:06:01) | ===> btop++ v.1.4.0
+2025/04/21 (20:06:01) | INFO: Logger set to INFO
+2025/04/21 (20:06:01) | INFO: Running on /dev/pts/0
+2025/04/21 (20:06:01) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2025/04/21 (20:06:01) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/04/21 (20:06:01) | WARNING: ROCm SMI: Failed to get PCIe throughput
+
+2025/04/21 (23:11:12) | ===> btop++ v.1.4.0
+2025/04/21 (23:11:12) | INFO: Logger set to INFO
+2025/04/21 (23:11:12) | INFO: Running on /dev/pts/1
+2025/04/21 (23:11:12) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2025/04/21 (23:11:12) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/04/21 (23:11:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/21 (23:11:12) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/04/21 (23:11:18) | INFO: Quitting! Runtime: 00:00:06
+
+2025/04/24 (01:51:07) | ===> btop++ v.1.4.0
+2025/04/24 (01:51:07) | INFO: Logger set to INFO
+2025/04/24 (01:51:07) | INFO: Running on /dev/pts/0
+2025/04/24 (01:51:07) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2025/04/24 (01:51:07) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/04/24 (01:51:07) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/04/24 (01:51:31) | INFO: Quitting! Runtime: 00:00:24
+
+2025/04/24 (01:51:49) | ===> btop++ v.1.4.0
+2025/04/24 (01:51:49) | INFO: Logger set to INFO
+2025/04/24 (01:51:49) | INFO: Running on /dev/pts/0
+2025/04/24 (01:51:49) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2025/04/24 (01:51:49) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/04/24 (01:51:49) | WARNING: ROCm SMI: Failed to get PCIe throughput
+
+2025/04/24 (02:01:46) | ===> btop++ v.1.4.0
+2025/04/24 (02:01:46) | INFO: Logger set to INFO
+2025/04/24 (02:01:46) | INFO: Running on /dev/pts/2
+2025/04/24 (02:01:46) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2025/04/24 (02:01:46) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/04/24 (02:01:46) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/04/24 (02:04:09) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:09) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:09) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:09) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:09) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:09) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:09) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:09) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:09) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:09) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:09) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:09) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:10) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:10) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:10) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:10) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:10) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:10) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:10) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:10) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:10) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:10) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:10) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:10) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:10) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:10) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:10) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:10) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:11) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:11) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:11) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:11) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:11) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:11) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:11) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:11) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:17) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:17) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:17) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:17) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:17) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:17) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:18) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:18) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:18) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:18) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:18) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:18) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:18) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:18) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:18) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:18) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:18) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:18) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:18) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:18) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:18) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:18) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:18) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:18) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:19) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:19) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:19) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:19) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:19) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (02:04:19) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+
+2025/04/24 (15:00:39) | ===> btop++ v.1.4.0
+2025/04/24 (15:00:39) | INFO: Logger set to INFO
+2025/04/24 (15:00:39) | INFO: Running on /dev/pts/0
+2025/04/24 (15:00:39) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2025/04/24 (15:00:40) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/04/24 (15:00:40) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/04/24 (15:00:51) | INFO: Quitting! Runtime: 00:00:12
+
+2025/04/24 (15:11:28) | ===> btop++ v.1.4.0
+2025/04/24 (15:11:28) | INFO: Logger set to INFO
+2025/04/24 (15:11:28) | INFO: Running on /dev/pts/1
+2025/04/24 (15:11:28) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2025/04/24 (15:11:28) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/04/24 (15:11:28) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (15:11:28) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/04/24 (16:33:47) | INFO: Quitting! Runtime: 01:22:19
+
+2025/04/24 (18:22:28) | ===> btop++ v.1.4.0
+2025/04/24 (18:22:28) | INFO: Logger set to INFO
+2025/04/24 (18:22:29) | INFO: Running on /dev/pts/1
+2025/04/24 (18:22:29) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2025/04/24 (18:22:29) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/04/24 (18:22:29) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/24 (18:22:29) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/04/26 (03:23:28) | INFO: Quitting! Runtime: 1d 09:01:00
+
+2025/04/28 (21:57:11) | ===> btop++ v.1.4.0
+2025/04/28 (21:57:11) | INFO: Logger set to INFO
+2025/04/28 (21:57:11) | INFO: Running on /dev/pts/2
+2025/04/28 (21:57:11) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2025/04/28 (21:57:11) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/04/28 (21:57:11) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/04/28 (22:09:39) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (22:09:39) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (22:09:39) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (22:09:39) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (22:09:39) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (22:09:40) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (22:09:40) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (22:09:40) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (22:09:40) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (22:09:40) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (22:09:40) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (22:09:40) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (22:09:40) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (22:09:40) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (22:09:40) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (22:09:41) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (22:09:41) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (22:09:41) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:23) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:23) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:23) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:23) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:23) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:23) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:23) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:23) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:23) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:23) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:24) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:24) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:24) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:24) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:24) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:24) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:24) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:24) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:24) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:24) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:25) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:25) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:25) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:25) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:25) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:25) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:25) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:25) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:25) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:25) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:26) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:26) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:26) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:26) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:26) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:26) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:26) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:26) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:26) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:26) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:19:27) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:43) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:43) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:43) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:43) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:43) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:43) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:43) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:44) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:44) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:44) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:44) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:44) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:44) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:44) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:44) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:44) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:44) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:45) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:45) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:45) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:45) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:45) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:45) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:45) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:46) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:46) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:46) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:46) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:46) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:46) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:46) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:46) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:47) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:47) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:47) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:47) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:47) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:48) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:48) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:48) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:49) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:49) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:49) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:49) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:49) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:49) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:49) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:49) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:49) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:49) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:50) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:50) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:51) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:51) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:51) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:51) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:51) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:51) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:51) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:51) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:51) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:51) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:52) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:52) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:20:52) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:51:34) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:51:34) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:51:34) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:51:34) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:51:34) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:51:34) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:51:35) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:51:35) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:51:35) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:51:35) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:51:35) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:51:35) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:51:58) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:51:58) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:51:58) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:51:58) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:51:59) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:51:59) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:51:59) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:51:59) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:51:59) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:51:59) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:51:59) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:51:59) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/28 (23:51:59) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:20:33) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:20:33) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:20:33) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:20:34) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:20:34) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:20:34) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:20:34) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:20:34) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:20:34) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:20:34) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:20:34) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:20:34) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:20:56) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:20:56) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:20:56) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:20:57) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:20:57) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:20:57) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:20:57) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:20:57) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:20:57) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:20:57) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:20:57) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:20:57) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:27:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:27:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:27:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:27:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:27:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:27:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:27:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:27:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:27:13) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:27:13) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:27:13) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:27:13) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:27:13) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:28:53) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:28:53) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:28:53) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:28:53) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:28:53) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:28:53) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:28:53) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:28:53) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:28:53) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:28:54) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:28:54) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:28:54) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (00:28:54) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:33:00) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:33:00) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:33:00) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:33:00) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:33:00) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:33:00) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:33:01) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:33:01) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:33:01) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:33:01) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:33:01) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:33:01) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:58:45) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:58:45) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:58:45) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:58:45) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:58:45) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:58:45) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:58:45) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:58:46) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:58:46) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:58:46) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:58:46) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:58:46) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:58:46) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:58:46) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:58:47) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:58:47) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:58:47) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:58:47) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:58:47) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:58:47) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:58:47) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:58:47) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:58:47) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:58:47) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (02:58:48) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:32:57) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:32:57) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:32:57) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:32:57) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:32:58) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:32:58) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:32:58) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:32:58) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:32:58) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:32:58) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:32:58) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:32:58) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:32:58) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:47:11) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:47:11) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:47:11) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:47:11) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:47:11) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:47:11) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:47:11) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:47:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:47:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:47:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:47:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:47:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:47:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:47:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:47:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:47:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:47:12) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:47:13) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:47:13) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:47:13) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:50:27) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:50:27) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:50:27) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:50:27) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:50:27) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:50:28) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:50:28) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:50:28) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:50:28) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:50:28) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:50:28) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:50:28) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:50:28) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:50:28) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (03:50:29) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (04:31:56) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (04:31:57) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (04:31:57) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (04:31:57) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (04:31:57) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (04:31:57) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (04:31:57) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (04:31:57) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (04:31:57) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (04:31:57) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (04:31:57) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (04:31:58) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (05:57:05) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (05:57:05) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (05:57:05) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (05:57:05) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (05:57:05) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (05:57:06) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (05:57:06) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (05:57:06) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (05:57:06) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (05:57:06) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (05:57:06) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (05:57:06) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (05:57:06) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (13:19:01) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (13:19:01) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (13:19:01) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (13:19:01) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (13:19:02) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (13:19:02) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (13:19:02) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (13:19:02) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (13:19:02) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (13:19:02) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (13:19:02) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (13:19:02) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+2025/04/29 (13:19:02) | WARNING: ROCm SMI: Failed to get VRAM clock speed: 
+
+2025/04/30 (16:03:07) | ===> btop++ v.1.4.0
+2025/04/30 (16:03:07) | INFO: Logger set to INFO
+2025/04/30 (16:03:07) | INFO: Running on /dev/pts/0
+2025/04/30 (16:03:07) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2025/04/30 (16:03:07) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/04/30 (16:03:07) | WARNING: ROCm SMI: Failed to get PCIe throughput

@@ -66,11 +66,11 @@ zstyle ':fzf-tab:complete:__zoxide_z:*' fzf-preview 'ls --color $realpath'
 # Stats
 alias f="hyfetch"
 alias age="stat / | grep Birth"
-alias ram="sudo dmidecode -t memory | grep Speed"
+alias ram="cd ~/.config/fastfetch; chmod +x ./ram_modules.sh; sudo ./ram_modules.sh; cd"
 alias myip="curl ipinfo.io"
 # DNF
 alias up="sudo dnf upgrade --refresh --best --allowerasing -y && flatpak update -y"
-alias cc="sudo dnf autoremove && dnf clean all && flatpak uninstall --unused -y && flatpak remove --delete-data && sudo journalctl --vacuum-time=1weeks"
+alias cc="sudo dnf autoremove && dnf clean all && flatpak uninstall --unused -y && flatpak remove --delete-data && trash-empty && sudo journalctl --vacuum-time=1weeks"
 alias c="clear"
 alias dnfi="sudo dnf install"
 alias dnfr="sudo dnf remove"
@@ -84,7 +84,7 @@ alias l="lsd --date '+%d.%m.%Y %H:%M' -lah"
 alias cp="rsync -ah --info=progress2"
 alias mv="mv -v"
 alias rm="rm -v"
-alias rd="sudo rm -rfv"
+alias rd="trash"
 alias untar="tar -zxvf"
 alias cpwd="pwd && pwd | xclip -selection clipboard"
 # Flatpak
