@@ -33,18 +33,12 @@
         {
             "type": "memory",
             "key": "│ ├ RAM",
-            "keyColor": "green"
-        },
-        {
-    "type": "command",
-    "key": "│ │ Modules",
-    "keyColor": "green",
-        "text": "sudo dmidecode -t memory | awk '/Memory Device/ { in_device = 1; } /^\\s*$/ { if (size > 0) { sizes[size]++; module_count++; } in_device = 0; } /Size:/ && in_device { size = $2; } /Type:/ && in_device && $2 != \"Unknown\" && $2 != \"Other\" { type = $2; } /Speed:/ && in_device { speed = $2; } END { for (s in sizes) { summary = (summary ? summary \" + \" : \"\") sizes[s] \"x\" s \"GiB\"; } print type \" \" summary \" @ \" speed \"MHz\"; }'"
+            "keyColor": "green",
         },
         {
             "type": "display",
-            "key": "│ ├󰍹 Monitor",
-            "format": "{1}x{2} @ {3}Hz {12}\"",
+            "key": "│ ├󰍹 Display",
+            "format": "{1}x{2} @ {3}Hz in {12}\"",
             "keyColor": "green"
         },
         {
@@ -102,6 +96,12 @@
             "keyColor": "yellow",
             "text": "birth_install=$(stat -c %W /); current=$(date +%s); time_progression=$((current - birth_install)); days_difference=$((time_progression / 86400)); echo $days_difference days"
         },
+	{
+            "key": "│ ├󰩟 Local IP",
+	    "keyColor": "yellow",
+            "type": "localip",
+            "format": "{ipv4} ({ifname})"
+        },
         {
             "type": "uptime",
             "key": "└ └ Uptime",
@@ -140,9 +140,9 @@
             "outputColor": "red"
         },
         {
-            "type": "custom",
-            "format": "               \u001b[90m  \u001b[31m  \u001b[32m  \u001b[33m  \u001b[34m  \u001b[35m  \u001b[36m  \u001b[37m "
-        },
+            "type": "colors",
+            "symbol": "circle"
+	},
         "break"
     ]
 }
