@@ -70,7 +70,7 @@ alias ram="cd ~/.config/fastfetch; chmod +x ./ram_modules.sh; sudo ./ram_modules
 alias myip="curl ipinfo.io"
 # DNF
 alias up="sudo dnf upgrade --refresh --best --allowerasing -y && flatpak update -y"
-alias cc="sudo dnf autoremove && dnf clean all && flatpak uninstall --unused -y && flatpak remove --delete-data && trash-empty && sudo journalctl --vacuum-time=1weeks"
+alias cc="sudo dnf autoremove && sudo dnf clean all && flatpak uninstall --unused -y && flatpak remove --delete-data && trash-empty && sudo journalctl --vacuum-time=1weeks"
 alias c="clear"
 alias dnfi="sudo dnf install"
 alias dnfr="sudo dnf remove"
