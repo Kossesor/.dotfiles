@@ -1,0 +1,7 @@
+[user]
+	email = sd103e@mail.ru
+	name = Semyon Kosse
+[credential]
+	helper = 
+[url "git@github.com:"]
+	insteadOf = https://github.com/

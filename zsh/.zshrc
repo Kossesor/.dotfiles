@@ -70,7 +70,7 @@ alias ram="cd ~/.config/fastfetch; chmod +x ./ram_modules.sh; sudo ./ram_modules
 alias myip="curl ipinfo.io"
 # DNF
 alias up="sudo dnf upgrade --refresh --best --allowerasing -y && flatpak update -y"
-alias cc="sudo dnf autoremove && sudo dnf clean all && flatpak uninstall --unused -y && flatpak remove --delete-data && trash-empty && sudo journalctl --vacuum-time=1weeks"
+alias cc="sudo dnf autoremove && sudo dnf clean all && flatpak uninstall --unused -y && flatpak remove --delete-data && trash-empty && sudo journalctl --vacuum-time=1weeks && rm -rf ~/.var/app/com.spotify.Client/cache/spotify/* && rm -rf ~/Downloads/* && rm -rf ~/Pictures/Screenshots/*"
 alias c="clear"
 alias dnfi="sudo dnf install"
 alias dnfr="sudo dnf remove"
@@ -84,7 +84,8 @@ alias l="lsd --date '+%d.%m.%Y %H:%M' -lah"
 alias cp="rsync -ah --info=progress2"
 alias mv="mv -v"
 alias rm="rm -v"
-alias rd="trash"
+alias rd="rm -rf"
+alias srd="sudo rm -rf"
 alias untar="tar -zxvf"
 alias cpwd="pwd && pwd | xclip -selection clipboard"
 # Flatpak
@@ -95,7 +96,9 @@ alias fll="flatpak list"
 alias fls="flatpak search"
 # Text Editor
 alias gte="gnome-text-editor"
-alias vi="sudo nvim"
+#alias vim="sudo nvim"
+#alias vi="sudo nvim"
+#alias v="sudo nvim"
 # Other
 alias lg="lazygit"
 # DaVinci Resolve
@@ -130,3 +133,5 @@ alias NVM='[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" && [ -s "$NVM_DIR/ba
 # THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 export SDKMAN_DIR="$HOME/.sdkman"
 alias SDK='[[ -s "$HOME/.sdkman/bin/sdkman-init.sh" ]] && source "$HOME/.sdkman/bin/sdkman-init.sh"'
+
+if [ -e /home/kosse/.nix-profile/etc/profile.d/nix.sh ]; then . /home/kosse/.nix-profile/etc/profile.d/nix.sh; fi # added by Nix installer

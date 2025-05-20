@@ -8,12 +8,12 @@ sudo dmidecode -t memory | awk '
 BEGIN {
     module_count = 0;
 }
-/Memory Device/ { 
-    in_device = 1; 
+/Memory Device/ {
+    in_device = 1;
     size = 0; type = ""; speed = "";
     next;
 }
-/^\s*$/ { 
+/^\s*$/ {
     if (in_device && size > 0 && type != "" && speed > 0) {
         sizes[size]++;
         types[type]++;

@@ -35,6 +35,13 @@
             "key": "│ ├ RAM",
             "keyColor": "green",
         },
+
+        {
+    "type": "command",
+    "key": "│ │ Modules",
+    "keyColor": "green",
+        "text": "sudo dmidecode -t memory | awk '/Memory Device/ { in_device = 1; } /^\\s*$/ { if (size > 0) { sizes[size]++; module_count++; } in_device = 0; } /Size:/ && in_device { size = $2; } /Type:/ && in_device && $2 != \"Unknown\" && $2 != \"Other\" { type = $2; } /Speed:/ && in_device { speed = $4; } END { for (s in sizes) { summary = (summary ? summary \" + \" : \"\") sizes[s] \"x\" s \"GiB\"; } print type \" \" summary \" @ \" speed \"MHz\"; }'"
+        },
         {
             "type": "display",
             "key": "│ ├󰍹 Display",
@@ -136,13 +143,13 @@
         },
         {
             "type": "custom",
-            "format": "└────────────────────────────────────────────────────┘",
+            "format": "└──────────────────────────────────────────────────────┘",
             "outputColor": "red"
         },
         {
-            "type": "colors",
-            "symbol": "circle"
-	},
+            "type": "custom",
+            "format": "              {#30}  {#31}  {#32}  {#33}  {#34}  {#35}  {#36}  {#37}  {#38}  {#39} "
+        },
         "break"
     ]
 }
