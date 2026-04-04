@@ -8,13 +8,8 @@ export MANGOHUD_DLSYM=1
 export PATH="$HOME/.local/bin:$PATH"
 export EDITOR="nvim"
 
-export http_proxy="http://127.0.0.1:2080"
-export https_proxy="http://127.0.0.1:2080"
-
-#export http_proxy="http://127.0.0.1:12334"
-#export https_proxy="http://127.0.0.1:12334"
-
-export no_proxy="localhost,127.0.0.1"
+export PATH=$PATH:/home/kosse/.spicetify
+export pcmac="9C:6B:00:B9:5C:82"
 
 # Add POSH catppuccin theme
 eval "$(oh-my-posh init zsh --config ~/.catppuccin_mocha.omp.json)"
@@ -73,6 +68,31 @@ zstyle ':completion:*' menu no
 zstyle ':fzf-tab:complete:cd:*' fzf-preview 'ls --color $realpath'
 zstyle ':fzf-tab:complete:__zoxide_z:*' fzf-preview 'ls --color $realpath'
 
+# Proxy toggle (127.0.0.1:2080)
+proxyon() {
+  export http_proxy="http://127.0.0.1:2080"
+  export https_proxy="http://127.0.0.1:2080"
+  export ftp_proxy="http://127.0.0.1:2080"
+  export no_proxy="localhost,127.0.0.1"
+  export HTTP_PROXY="$http_proxy"
+  export HTTPS_PROXY="$https_proxy"
+  export FTP_PROXY="$ftp_proxy"
+  export NO_PROXY="$no_proxy"
+}
+
+proxyoff() {
+  unset http_proxy https_proxy ftp_proxy no_proxy
+  unset HTTP_PROXY HTTPS_PROXY FTP_PROXY NO_PROXY
+}
+
+proxystatus() {
+  if [[ -n "${http_proxy:-}${HTTP_PROXY:-}" ]]; then
+    echo "proxy: ON  (http_proxy=${http_proxy:-$HTTP_PROXY})"
+  else
+    echo "proxy: OFF"
+  fi
+}
+
 # Aliases
 
 # Stats
@@ -80,6 +100,7 @@ alias f="hyfetch"
 alias age="stat / | grep Birth"
 alias ram="cd ~/.config/fastfetch; chmod +x ./ram_modules.sh; sudo ./ram_modules.sh; cd"
 alias myip="curl ipinfo.io"
+alias wakeup="wakeonlan $pcmac"
 # DNF
 alias up="sudo dnf upgrade --refresh --best --allowerasing -y && flatpak update -y"
 alias cc="sudo dnf autoremove && sudo dnf clean all && flatpak uninstall --unused -y && flatpak remove --delete-data && trash-empty && sudo journalctl --vacuum-time=1weeks && rm -rf ~/Downloads/* && rm -rf ~/Pictures/Screenshots/*"
