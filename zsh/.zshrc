@@ -108,6 +108,12 @@ alias c="clear"
 alias dnfi="sudo dnf install"
 alias dnfr="sudo dnf remove"
 alias dnfs="dnf search"
+# Homebrew
+alias bi="brew install"
+alias br="brew remove"
+alias bup="brew update"
+alias bs="brew search"
+alias bl="brew list"
 # Dir utils
 alias ls="lsd"
 alias ll="lsd -1"
