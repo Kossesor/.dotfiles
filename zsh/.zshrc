@@ -101,8 +101,10 @@ alias age="stat / | grep Birth"
 alias ram="cd ~/.config/fastfetch; chmod +x ./ram_modules.sh; sudo ./ram_modules.sh; cd"
 alias myip="curl ipinfo.io"
 alias wakeup="wakeonlan $pcmac"
+alias sleepoff='sudo systemctl mask sleep.target suspend.target hibernate.target hybrid-sleep.target'
+alias sleepon='sudo systemctl unmask sleep.target suspend.target hibernate.target hybrid-sleep.target'
 # DNF
-alias up="sudo dnf upgrade --refresh --best --allowerasing -y && flatpak update -y"
+alias up="sudo dnf upgrade --refresh --best --allowerasing -y && flatpak update -y && brew update && brew upgrade"
 alias cc="sudo dnf autoremove && sudo dnf clean all && flatpak uninstall --unused -y && flatpak remove --delete-data && trash-empty && sudo journalctl --vacuum-time=1weeks && rm -rf ~/Downloads/* && rm -rf ~/Pictures/Screenshots/*"
 alias c="clear"
 alias dnfi="sudo dnf install"
@@ -111,7 +113,7 @@ alias dnfs="dnf search"
 # Homebrew
 alias bi="brew install"
 alias br="brew remove"
-alias bup="brew update"
+alias bup="brew upgrade"
 alias bs="brew search"
 alias bl="brew list"
 # Dir utils
@@ -164,3 +166,5 @@ function y() {
 export SDKMAN_DIR="$HOME/.sdkman"
 alias SDK='[[ -s "$HOME/.sdkman/bin/sdkman-init.sh" ]] && source "$HOME/.sdkman/bin/sdkman-init.sh"'
 
+
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv zsh)"
