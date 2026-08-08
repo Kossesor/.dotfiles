@@ -113,7 +113,7 @@ alias dnfs="dnf search"
 # Homebrew
 alias bi="brew install"
 alias br="brew remove"
-alias bup="brew upgrade"
+alias bup="brew update && brew upgrade -y"
 alias bs="brew search"
 alias bl="brew list"
 # Dir utils
