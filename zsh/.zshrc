@@ -104,7 +104,7 @@ alias wakeup="wakeonlan $pcmac"
 alias sleepoff='sudo systemctl mask sleep.target suspend.target hibernate.target hybrid-sleep.target'
 alias sleepon='sudo systemctl unmask sleep.target suspend.target hibernate.target hybrid-sleep.target'
 # DNF
-alias up="sudo dnf upgrade --refresh --best --allowerasing -y && flatpak update -y && brew update && brew upgrade"
+alias up="sudo dnf upgrade --refresh --best --allowerasing -y && flatpak update -y && brew update && brew upgrade -y"
 alias cc="sudo dnf autoremove && sudo dnf clean all && flatpak uninstall --unused -y && flatpak remove --delete-data && trash-empty && sudo journalctl --vacuum-time=1weeks && rm -rf ~/Downloads/* && rm -rf ~/Pictures/Screenshots/*"
 alias c="clear"
 alias dnfi="sudo dnf install"
